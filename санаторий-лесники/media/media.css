@@ -1,0 +1,33 @@
+@media screen and (max-width:1200px){.phone-wrap{font-size:1.375rem}.advantages-icons-down-box{-ms-flex-wrap:wrap;flex-wrap:wrap}.advantages-icons-down-box{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.advantages-down{width:30%;margin:0 0 40px}}
+
+@media screen and (max-width:1000px){#nav{background:rgba(255,255,255,.8);padding-bottom:30px}.logo-box{text-align:center}.logo{width:100px}.nav-box{margin-top:20px}.nav-menu-box{margin-top:30px;text-align:center}.nav-menu-box li{margin:0 10px}.offer-box{margin-top:100px}.timer-box{margin-top:90px}.advantages-content{width:100%}.advantages-icons-down-box{margin-top:20px}.advantages-icons-box{width:100%;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.advantages-icon{width:50%}.advantages-icon-img{height:90px}.advantages-down{width:50%}.contacts-content{margin-top:40px}.footer-wrap{display:block}.footer-info,.logo-footer-box{width:100%;margin-bottom:30px}.mob-map{display:block}.desk-map{display:none}.view-text{font-size: 1rem;font-weight: 400;text-transform: none;padding: 10px 0;}}
+
+@media screen and (max-width:770px){.phone-box{display:block}.phone-btn-box,.phone-city-box,.phone-mobile-box{width:100%;text-align:center;margin-top:30px;margin-bottom:30px}.phone-city-box{padding-top:0}.btn-phone-nav{margin:0 auto}.nav-menu-box li a{font-size:1rem;line-height:2}.view-point{width:20px;height:20px}
+
+
+.view-text{font-size:1rem;padding:20px 10px; height: auto; width: 130px;margin-left: -65px;}
+
+.view-text-down{bottom: 190%;}.view-text-top{bottom: 190%;}
+
+.foto-box{width:48%}
+
+.view-text-full-end{top: auto;bottom: -120px;height: 100px;}
+
+.view-text-full-end:after{
+	top:-10%;
+}
+
+}
+
+@media screen and (max-width:600px){.profile-content-box-green{margin-left:0}.view-text-end-top{left:-480%}.view-text-end-top:after{left:70%}.view-text-end-down{left:-480%}.view-text-end-down:after{left:70%}}
+
+@media screen and (max-width:500px){html{font-size:14px}.timer-wrap{-ms-flex-wrap:wrap;flex-wrap:wrap;-ms-flex-pack:distribute;justify-content:space-around}.timer-item{width:50%;margin-bottom:30px}.timer-item-block{margin:0 auto}.advantages-down{width:50%}.foto-wrap{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.view-text-end{left: -80%;}.view-text-end:after{left: 70%;}.foto-box{width:95%}}
+
+@media screen and (max-width:400px){.timer-item{width:100%}.timer-block{padding:35px 10px}.offer-block{text-align:center}.offer{font-size:2rem}.offer-subtitle{font-size:1.1rem}.btn-offer{font-size:1.1rem;padding:23px 40px}.advantages-icons-box{display:block}.advantages-icon{width:100%;text-align:center}.advantages-icons-down-box{display:block}.advantages-down{width:100%;text-align:center}.advantages-box{padding:40px 20px}.view-text{width: 100px;left: 50%;margin-left: -50px;}.view-text-end{left: -80%;}.view-text-full-end{top: auto;bottom: -100px;height: 80px;}
+
+.view-text-full-end:after{
+	top:-10%;
+}
+
+
+.view-point{width:15px;height:15px;-webkit-box-shadow:0 0 15px 5px #fff;box-shadow:0 0 15px 5px #fff}.view-text{font-size:.8rem;font-weight:600;padding:15px 20px}.logo-footer-box a{display:block;margin-left:0;margin-top:20px}}
